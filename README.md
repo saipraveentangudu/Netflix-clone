@@ -15,7 +15,7 @@ Getting Started
 To get started with this project, follow these steps:
 
 Clone the repository:
-git clone https://github.com/alok-2002/Netflix_Home_Page_Using_HTML_And_CSS.git
+
 Open the project in your preferred code editor.
 
 Launch the index.html file in a web browser to view the Netflix home page.
@@ -35,5 +35,5 @@ Contact
 If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
 
 Your Name : Alok Sharma
-Email: sharmaalok02gwl@gmail.com
+Email: saipraveentangudu@gmail.com
 Enjoy exploring the code and creating your own Netflix-like home pages!
